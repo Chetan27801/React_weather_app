@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Chetan27801/React_weather_app/static/css/main.fffeae1f.css",
+    "main.js": "/Chetan27801/React_weather_app/static/js/main.de34e531.js",
+    "index.html": "/Chetan27801/React_weather_app/index.html",
+    "main.fffeae1f.css.map": "/Chetan27801/React_weather_app/static/css/main.fffeae1f.css.map",
+    "main.de34e531.js.map": "/Chetan27801/React_weather_app/static/js/main.de34e531.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fffeae1f.css",
+    "static/js/main.de34e531.js"
+  ]
+}
